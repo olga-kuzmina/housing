@@ -93,3 +93,4 @@ data/
 
 # MAC service folder
 .DS_Store
+.Rproj.user
